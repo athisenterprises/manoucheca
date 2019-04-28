@@ -1928,9 +1928,9 @@ body {
   background-color: #ffffff;
 }
 .cid-riQK2ZcFx4 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #efefef;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #9c88bc;
 }
 .cid-riQK2ZcFx4 .main {
   -webkit-flex-direction: row-reverse;
@@ -1968,10 +1968,10 @@ body {
 .cid-riQK2ZcFx4 .mbr-text,
 .cid-riQK2ZcFx4 .mbr-section-btn {
   text-align: left;
-  color: #767676;
+  color: #ffffff;
 }
 .cid-riQK2ZcFx4 .mbr-title B {
-  color: #66458e;
+  color: #ffffff;
 }
 .cid-riP27usApk {
   padding-top: 45px;
@@ -1999,7 +1999,7 @@ body {
 }
 .cid-riP27usApk .card-overlay {
   display: none;
-  background: #dbab4c;
+  background: #66458e;
 }
 @media (min-width: 768px) {
   .cid-riP27usApk .image-element:hover .card-overlay {
@@ -2060,7 +2060,7 @@ body {
     text-align: center !important;
   }
   .cid-riP27usApk .wrapper {
-    background-color: #dbab4c;
+    background-color: #66458e;
   }
 }
 .cid-riP27usApk .mbr-section-title {
@@ -2096,7 +2096,7 @@ body {
 }
 .cid-rjeAde5IvR .card-overlay {
   display: none;
-  background: #dbab4c;
+  background: #66458e;
 }
 @media (min-width: 768px) {
   .cid-rjeAde5IvR .image-element:hover .card-overlay {
@@ -2157,7 +2157,7 @@ body {
     text-align: center !important;
   }
   .cid-rjeAde5IvR .wrapper {
-    background-color: #dbab4c;
+    background-color: #66458e;
   }
 }
 .cid-rjeAde5IvR .mbr-section-title {
@@ -2222,7 +2222,7 @@ body {
 .cid-riP7t7aDG9 {
   padding-top: 45px;
   padding-bottom: 75px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-riP7t7aDG9 .header-text {
   display: flex;
@@ -2257,7 +2257,7 @@ body {
   -webkit-justify-content: space-between;
   justify-content: space-between;
   transition: all .3s;
-  background-color: #c1c1c1;
+  background-color: #66458e;
   margin-bottom: 0;
   font-style: normal;
   font-weight: 500;
@@ -2282,7 +2282,7 @@ body {
   margin-bottom: 0;
 }
 .cid-riP7t7aDG9 .card .panel-body {
-  background: #efefef;
+  background: #9c88bc;
 }
 .cid-riP7t7aDG9 .sign {
   color: #232323;
@@ -2316,8 +2316,8 @@ body {
 .cid-riP7vMPPPA .carousel-controls a span {
   padding: 15px;
   border-radius: 50%;
-  color: #000000;
-  background: #ffffff;
+  color: #ffffff;
+  background: #66458e;
   opacity: .9;
 }
 .cid-riP7vMPPPA .carousel-controls a:hover span {
