@@ -41,7 +41,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -3003,23 +3003,6 @@
           "_params": {}
         },
         {
-          "alias": false,
-          "_styles": {},
-          "_name": "header6",
-          "_customHTML": "<div id=\"my-categories-17098082\"></div>\n<div>\n[JS_CODE_0]\n[JS_CODE_1]\n</div>",
-          "_cid": "rqY52wzeAa",
-          "_anchor": "header6-b",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?17098082&data_platform=code&data_date=2019-05-19\" charset=\"utf-8\"></script>",
-            "<script type=\"text/javascript\"> xCategoriesV2(\"id=my-categories-17098082\"); </script>"
-          ],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<div id=\"my-categories-17098082\"></div>\n<div>\n[JS_CODE_0]\n[JS_CODE_1]\n</div>",
@@ -3034,6 +3017,23 @@
           "_JSplaceholders": [
             "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?17098082&data_platform=code&data_date=2019-05-19\" charset=\"utf-8\"></script>",
             "<script type=\"text/javascript\"> xCategoriesV2(\"id=my-categories-17098082\"); </script>"
+          ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div id=\"my-store-17098082\"></div>\n<div>\n[JS_CODE_0][JS_CODE_1]\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-d",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?17098082&data_platform=code&data_date=2019-05-19\" charset=\"utf-8\"></script>",
+            "<script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-17098082\");</script>"
           ]
         },
         {
