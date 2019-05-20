@@ -46,7 +46,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/01-03n-copy-128x164.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
