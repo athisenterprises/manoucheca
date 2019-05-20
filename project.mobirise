@@ -3023,7 +3023,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<div class=\"ec-cart-widget\"></div>\n<div>\n[JS_CODE_0]\n[JS_CODE_1]\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 20px 0;\n  color: #777;\n  text-align: left;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 10px 0;\n  color: #777;\n  text-align: left;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
