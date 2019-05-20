@@ -2302,6 +2302,9 @@ body {
 .cid-rjeAde5IvR .underline B {
   color: #494647;
 }
+.cid-rjeAde5IvR B {
+  color: #66458e;
+}
 .cid-riP2DuAjj8 {
   padding-top: 75px;
   padding-bottom: 45px;
@@ -2427,9 +2430,9 @@ body {
   color: #ffffff;
 }
 .cid-riP7vMPPPA {
-  padding-top: 60px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/shari-sirotnak-686557-unsplash-1-2000x11482.jpg");
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #66458e;
 }
 .cid-riP7vMPPPA .carousel-item {
   -webkit-justify-content: center;
@@ -2480,161 +2483,10 @@ body {
     width: 5%;
   }
 }
-.cid-riPckh0nMZ {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-riPckh0nMZ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-riPckh0nMZ .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-riPckh0nMZ .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-riPckh0nMZ .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-riPckh0nMZ .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-riPckh0nMZ .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #fac769;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(180deg, #fac769, #e96188);
-}
-.cid-riPckh0nMZ .icon-focus {
-  font-size: 2rem !important;
-  width: 50px;
-  height: 50px;
-  top: calc(50% - 25px);
-  left: calc(50% - 25px);
-}
-.cid-riPckh0nMZ .icon-focus:before {
-  content: '+';
-  border-radius: 100px;
-  background: #444444;
-  width: 100%;
-  height: 100%;
-  padding-bottom: 6px;
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-riPckh0nMZ .icon-video {
-  font-size: 1.5rem !important;
-  width: 50px;
-  height: 50px;
-  top: calc(50% - 25px);
-  left: calc(50% - 25px);
-}
-.cid-riPckh0nMZ .icon-video:before {
-  border-radius: 100px;
-  background: #444444;
-  width: 100%;
-  height: 100%;
-  padding-left: 6px;
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-riPckh0nMZ .mbr-gallery-title {
-  transition: all 0.5s ease;
-  position: absolute;
-  text-align: left;
-  display: none;
-  width: 100%;
-  bottom: 0;
-  right: 0;
-  padding: 1rem;
-  color: #ffffff;
-  font-weight: bold;
-  background: transparent;
-  -webkit-transition: all 0.5s ease;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  -ms-transition: all 0.5s ease;
-}
-.cid-riPckh0nMZ ul {
-  font-size: 0;
-}
-.cid-riPckh0nMZ .mbr-gallery-filter ul {
-  text-align: center;
-}
-.cid-riPckh0nMZ .mbr-gallery-filter ul li .btn {
-  border: none !important;
-  background-color: transparent;
-  color: #59585d !important;
-  padding: 0.5rem 1rem 0.6rem;
-  border-radius: 0;
-  margin: 0!important;
-  transition: padding, border 0s, transform .2s;
-}
-.cid-riPckh0nMZ .mbr-gallery-filter ul li .btn.active {
-  padding: 0.5rem 1rem 0.5rem;
-  border-radius: 0 !important;
-}
-.cid-riPckh0nMZ .mbr-gallery-filter ul li {
-  padding: 0;
-  margin: 0 .2rem;
-}
-.cid-riPckh0nMZ .mbr-gallery-filter ul li:first-child,
-.cid-riPckh0nMZ .mbr-gallery-filter ul li:last-child {
-  margin: 0;
-}
-.cid-riPckh0nMZ .mbr-gallery-item > div:hover .mbr-gallery-title {
-  display: block;
-}
-.cid-riPckh0nMZ .mbr-gallery-item > div:hover:before {
-  opacity: 0.5 !important;
-}
-.cid-riPckh0nMZ .btn {
-  background: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-}
-.cid-riPckh0nMZ .btn.active:after {
-  animation: none;
-}
-.cid-riPckh0nMZ .btn:active {
-  box-shadow: none !important;
-}
-.cid-riPckh0nMZ .btn:hover {
-  background: transparent !important;
-}
-.cid-riPckh0nMZ .btn:hover:before {
-  background: transparent !important;
-}
-.cid-riPckh0nMZ .btn:before {
-  background-color: transparent !important;
-}
-.cid-riPckh0nMZ .btn:focus {
-  box-shadow: none !important;
-}
-.cid-riPckh0nMZ .mbr-section-title,
-.cid-riPckh0nMZ .mbr-gallery-filter ul B {
-  color: #494949;
-}
 .cid-riPFNFcyHR {
   padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-color: #66458e;
 }
 .cid-riP7G7sMIJ {
   padding-top: 45px;
