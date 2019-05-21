@@ -1353,6 +1353,12 @@ body {
 .cid-rqXPn0qRAE .mbr-section-subtitle DIV {
   color: #ffffff;
 }
+#custom-html-i {
+  /* Type valid CSS here */
+}
+#custom-html-i .my-image {
+  width: 100%;
+}
 .cid-riOR1JG7pp {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2999,6 +3005,54 @@ body {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+#custom-html-e {
+  /* Type valid CSS here */
+}
+#custom-html-e div {
+  padding: 10px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-e p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-f {
+  /* Type valid CSS here */
+}
+#custom-html-f div {
+  padding: 10px 0;
+  color: #777;
+  text-align: left;
+}
+#custom-html-f p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-c {
+  /* Type valid CSS here */
+}
+#custom-html-c div {
+  padding: 20px 0;
+  color: #777;
+  text-align: left;
+}
+#custom-html-c p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-d {
+  /* Type valid CSS here */
+}
+#custom-html-d div {
+  padding: 20px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-d p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-riP7G7sMIJ {
   padding-top: 45px;
