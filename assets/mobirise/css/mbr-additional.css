@@ -824,17 +824,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #66458e;
-  color: #ffffff;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #66458e;
-}
 .cid-riOyitmNZm .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -1210,7 +1199,7 @@ body {
   }
 }
 .cid-rqXPn0qRAE {
-  background-image: url("../../../assets/images/bab-2126-1818x2145.jpg");
+  background-image: url("../../../assets/images/bab-2126-1818x21450.jpg");
 }
 .cid-rqXPn0qRAE .mbr-section-subtitle {
   color: #66458e;
@@ -2308,7 +2297,7 @@ body {
 .cid-riP2DuAjj8 {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/guilherme-petri-602659-unsplash-2000x13331.jpg");
+  background-image: url("../../../assets/images/guilherme-petri-602659-unsplash-2000x133311.jpg");
 }
 .cid-riP2DuAjj8 .title {
   position: relative;
@@ -3018,41 +3007,23 @@ body {
   font-size: 60px;
   color: #777;
 }
-#custom-html-f {
+#custom-html-a {
   /* Type valid CSS here */
 }
-#custom-html-f div {
-  padding: 10px 0;
-  color: #777;
-  text-align: left;
-}
-#custom-html-f p {
-  font-size: 60px;
-  color: #777;
-}
-#custom-html-c {
-  /* Type valid CSS here */
-}
-#custom-html-c div {
-  padding: 20px 0;
-  color: #777;
-  text-align: left;
-}
-#custom-html-c p {
-  font-size: 60px;
-  color: #777;
+#custom-html-a .my-image {
+  width: 100%;
 }
 #custom-html-d {
   /* Type valid CSS here */
 }
-#custom-html-d div {
-  padding: 20px 0;
-  color: #777;
-  text-align: center;
+#custom-html-d .my-image {
+  width: 100%;
 }
-#custom-html-d p {
-  font-size: 60px;
-  color: #777;
+#custom-html-b {
+  /* Type valid CSS here */
+}
+#custom-html-b .my-image {
+  width: 100%;
 }
 .cid-riP7G7sMIJ {
   padding-top: 45px;
